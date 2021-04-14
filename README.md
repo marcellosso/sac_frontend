@@ -2,13 +2,13 @@
 
 ## ESLint
 
-Estou usando ESLint e Prettier para manter a formatação do código.
-No arquivo ˜.eslintrc.json˜ é possível ver as regras já adicionadas e adicionar novas regras e extensões.
+Estou usando ESLint e Prettier para manter a formatação do código.  
+No arquivo ˜.eslintrc.json˜ é possível ver as regras já adicionadas e adicionar novas regras e extensões.  
 
 ### Extensão
 
-Utilizar extensao do VSCODE ESLINT para manter a formatação
-[VSCODE Eslint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+Utilizar extensao do VSCODE ESLINT para manter a formatação  
+[VSCODE Eslint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)  
 
 # Execução
 
