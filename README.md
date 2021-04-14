@@ -12,11 +12,12 @@ Utilizar extensao do VSCODE ESLINT para manter a formatação
 
 # Execução
 
-## Available Scripts
+## Scripts Disponíveis
 
-In the project directory, you can run:
+Para executar o projeto pode ser usado tanto YARN quanto NPM, preferencialmente utilizar YARN
 
-### `yarn start`
+### `yarn start`  
+### `npm start`  
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Execute a aplicação em desenvolvimento.\
+Abre [http://localhost:3000](http://localhost:3000) para visualizar no navegador.
